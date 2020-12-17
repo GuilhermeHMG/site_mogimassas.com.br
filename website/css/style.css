@@ -85,7 +85,7 @@ header p{
     align-items: center;
     text-align: center;
     padding: 10px 10px 20px 20px;
-    background-color: #e6e600;
+    background-color: #e6a900;
     color: #FFFFFF;
 }
 
@@ -167,7 +167,7 @@ footer{
 
 footer a{
     text-decoration: none;
-    color: #e6e600;
+    color: #e6e600fd;
 }
 
 /*Aqui, estamos transformando o site em responsivo, pois estamos criando as recs de exibição de acordo com o tipo de tela que carregar o site (768px é mais ou menos o tamanho da tela de um tablet)*/
