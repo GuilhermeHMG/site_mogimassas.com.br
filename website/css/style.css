@@ -170,6 +170,10 @@ footer a{
     color: #e6e600fd;
 }
 
+footer p{
+    font-size: 10px;
+}
+
 /*Aqui, estamos transformando o site em responsivo, pois estamos criando as recs de exibição de acordo com o tipo de tela que carregar o site (768px é mais ou menos o tamanho da tela de um tablet)*/
 
 @media screen and (min-width: 768px) {
@@ -197,8 +201,8 @@ footer a{
     /*Sobre*/
 
     #sobre{
-        height: 250px;
-        height: 30vh;
+        height: 600px;/*250px;*/
+        height: 40vh;/*30vh;*/
         justify-content: center;
         min-width: 250px;
     }
