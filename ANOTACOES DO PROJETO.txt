@@ -1,8 +1,0 @@
-Aumentar o logo e desloca-lo para o centro da página;
-Fazer menu de botão/lista;
-Fazer campos, missão, visão, valores e princípios;
-Inserir o campo "Ou faça seu pedido através do Whatsapp clicando aqui!";
-Sobre (colocar foto de início, uniformizados);
-Tentar vincular - Software de gestão grátis da Sebrae;
-Informações sobre formas de pagamentos;
-Diferencial: Não contém aromatizante e nem conservantes.
