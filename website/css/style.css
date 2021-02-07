@@ -22,19 +22,18 @@ nav{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 
 .logo{
-    width: 100px;
-    height:100px;
-    float: left;
-    background: url(../img/Logo-3.png) center center /160px no-repeat;
+    width: 180px;
+    height: 110px;
+    float:inline-start;
+    background: url(../img/Logo-3.png) center center /200px no-repeat;
     font-size: 0;
 }
 
 nav ul{
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -53,8 +52,12 @@ nav ul li a{
     padding: 10% 0;
     width: 100%;
     text-decoration: none;
-    color: #ff0000;
+    color: #FF0000;
 }
+
+nav ul li a:hover {
+    color: #ffa31a;
+  }
 
 /*Cabeçalho*/
 
